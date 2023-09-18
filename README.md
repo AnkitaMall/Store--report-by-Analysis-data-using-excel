@@ -1,5 +1,5 @@
 # Store--report-by-Analysis-data-using-excel
-Simplify store data analysis and report generation using Excel. Clean, analyze, and visualize your store's performance effortlessly.
+ Clean, analyze, and visualize your store's performance effortlessly.
 
 Features
 
